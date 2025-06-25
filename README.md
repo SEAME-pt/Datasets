@@ -1,7 +1,7 @@
 # Datasets
 
 Each team can share their dataset in a dedicated folder with the Team's name.
-Please specify the image resolution.
+Please specify the image resolution, format (optional) and insert the data.yaml.
 
 Example:
 Directory - Team0x
