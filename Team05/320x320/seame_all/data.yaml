@@ -1,0 +1,13 @@
+train: 
+    - ./images/train
+    # - ../best/images
+    # - ./ttv2/train/images
+val: 
+    - ./images/val
+    # - ../best/images
+    # - ./ttv2/val
+
+nc: 15
+names: ['person', 'car', 'stop sign', 'lane', 'passadeira', 'sinal verde', 'sinal amarelo', 'sinal vermelho', 'sinal perigo', 'speed 50', 'speed 80', 'jetracer', 'drivable', 'prioridade', 'gate closed']
+
+task: segment
